@@ -24,4 +24,4 @@ os.makedirs('model', exist_ok=True)
 # Save the model
 joblib.dump(model, 'model/model.pkl')
 
-print("✅ Iris flower classification model trained and saved to 'model/model.pkl'")
+print("Iris flower classification model trained and saved to 'model/model.pkl'")
