@@ -14,5 +14,5 @@ sample = pd.DataFrame({
 
 # Predict species
 prediction = model.predict(sample)[0]
-print(f"🌸 Predicted Iris Species: {prediction}")
+print(f" Predicted Iris Species: {prediction}")
 
